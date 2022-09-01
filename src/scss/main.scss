@@ -1,0 +1,13 @@
+@import "common/font.scss";
+
+$nogap: 0;
+
+html,
+body {
+    padding: $nogap;
+    margin: $nogap;
+}
+
+h1 {
+    color: $blue;
+}
